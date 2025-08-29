@@ -1,0 +1,144 @@
+ 第26148行	| 类型ColorListScript不存在
+ 第26160行	| 类型ColorListScript不存在
+ 第26170行	| 类型ColorListScript不存在
+ 第26400行	| 类型ColorListScript不存在
+ 第26407行	| 类型ColorListScript不存在
+ 第26418行	| 类型ColorListScript不存在
+ 第30410行	| 类型PowerupScript不存在
+ 第30411行	| 类型PowerupScript不存在
+ 第30412行	| 类型PowerupScript不存在
+ 第30413行	| 类型PowerupScript不存在
+ 第30414行	| 类型PowerupScript不存在
+ 第30415行	| 类型PowerupScript不存在
+ 第30416行	| 类型PowerupScript不存在
+ 第30417行	| 类型PowerupScript不存在
+ 第30419行	| 类型PowerupScript不存在
+ 第30420行	| 类型PowerupScript不存在
+ 第30421行	| 类型PowerupScript不存在
+ 第30422行	| 类型PowerupScript不存在
+ 第30423行	| 类型PowerupScript不存在
+ 第30424行	| 类型PowerupScript不存在
+ 第30425行	| 类型PowerupScript不存在
+ 第30426行	| 类型PowerupScript不存在
+ 第30427行	| 类型PowerupScript不存在
+ 第30428行	| 类型PowerupScript不存在
+ 第30429行	| 类型PowerupScript不存在
+[错误] rulesmd.ini | [General] TiberiumHeal=.010       ; minutes between applying Tiberium healing [for those units that heal in Tiberium]
+[详情] 第33行      | 前缀.010不符合规则
+[错误] rulesmd.ini | [General] LargeVisceroid=VISC_LRG  ; when two small visceroids combine they turn into this
+[详情] 第104行     | UnitType中声明的VISC_LRG没有实现
+[错误] rulesmd.ini | [General] SmallVisceroid=VISC_SML  ; when infantry transmorgifies into a visceroid
+[详情] 第105行     | UnitType中声明的VISC_SML没有实现
+[错误] rulesmd.ini | [SpecialWeapons] NukeWarhead=Nuke        ; warhead used by falling nuke missile
+[详情] 第584行     | WarheadType中声明的Nuke没有实现
+[错误] rulesmd.ini | [SpecialWeapons] NukeDown=NukeDown       ; nuclear missile as it descends
+[详情] 第585行     | BulletType中声明的NukeDown没有实现
+[错误] rulesmd.ini | [SpecialWeapons] NukeProjectile=NukeUp   ; nuclear missile (from silo) projectile to launch
+[详情] 第586行     | BulletType中声明的NukeUp没有实现
+[建议] 第3409行	| 节[ColorAdd]未被收录，忽略检查
+[错误] rulesmd.ini | [YAGRND] DamageParticleSystems=SparkSys,SmallGreySmokeSys,BigGreySmokeSys
+[详情] 第13547行   | ParticleSystemType中声明的SmallGreySmokeSys没有实现
+[错误] rulesmd.ini | [NACLON] DamageParticleSystems=SparkSys,SmallGreySmokeSys,BigGreySmokeSys
+[详情] 第13579行   | ParticleSystemType中声明的SmallGreySmokeSys没有实现
+[建议] 第22178行	| 节[CAIRFGL]未被收录，忽略检查
+[建议] 第22374行	| 节[UFO]未被收录，忽略检查
+[建议] 第22447行	| 节[Minigun]未被收录，忽略检查
+[建议] 第22457行	| 节[BAZOOKA]未被收录，忽略检查
+[建议] 第22467行	| 节[JumpCannon]未被收录，忽略检查
+[建议] 第22503行	| 节[AssaultCannon]未被收录，忽略检查
+[建议] 第22513行	| 节[CyCannon]未被收录，忽略检查
+[建议] 第22523行	| 节[HarpyClaw]未被收录，忽略检查
+[建议] 第22533行	| 节[RaiderCannon]未被收录，忽略检查
+[建议] 第22544行	| 节[VulcanTower]未被收录，忽略检查
+[建议] 第22568行	| 节[RPGTower]未被收录，忽略检查
+[建议] 第22602行	| 节[BikeMissile]未被收录，忽略检查
+[建议] 第22647行	| 节[CruiseMissile]未被收录，忽略检查
+[建议] 第22673行	| 节[HoverMissile2]未被收录，忽略检查
+[建议] 第22697行	| 节[LtRail]未被收录，忽略检查
+[建议] 第22711行	| 节[MechRailgun]未被收录，忽略检查
+[建议] 第22736行	| 节[Gattling]未被收录，忽略检查
+[错误] rulesmd.ini | [AGGattling] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第22752行   | BulletType中声明的Invisiblelow没有实现
+[错误] rulesmd.ini | [AGGattling2] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第22778行   | BulletType中声明的Invisiblelow没有实现
+[错误] rulesmd.ini | [AGGattling3] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第22804行   | BulletType中声明的Invisiblelow没有实现
+[建议] 第22866行	| 节[OutpostMachineGun]未被收录，忽略检查
+[建议] 第22877行	| 节[Vulcan3]未被收录，忽略检查
+[建议] 第22889行	| 节[FireballLauncher]未被收录，忽略检查
+[建议] 第22903行	| 节[Sniper]未被收录，忽略检查
+[建议] 第23175行	| 节[QuadCannon]未被收录，忽略检查
+[建议] 第23198行	| 节[Dragon]未被收录，忽略检查
+[建议] 第23209行	| 节[Hellfire]未被收录，忽略检查
+[建议] 第23267行	| 节[Proton]未被收录，忽略检查
+[建议] 第23294行	| 节[V3Airburst]未被收录，忽略检查
+[建议] 第23310行	| 节[DredCollision]未被收录，忽略检查
+[建议] 第23332行	| 节[Grenade]未被收录，忽略检查
+[建议] 第23368行	| 节[75mm]未被收录，忽略检查
+[建议] 第23379行	| 节[90mm]未被收录，忽略检查
+[建议] 第23428行	| 节[120HE]未被收录，忽略检查
+[建议] 第23487行	| 节[Bomb]未被收录，忽略检查
+[建议] 第23496行	| 节[SuicideBomb]未被收录，忽略检查
+[建议] 第23771行	| 节[Heal]未被收录，忽略检查
+[建议] 第23875行	| 节[Yuribustshot]未被收录，忽略检查
+[建议] 第23999行	| 节[LaserFire]未被收录，忽略检查
+[建议] 第24016行	| 节[LaserFire2]未被收录，忽略检查
+[建议] 第24031行	| 节[EMPulseWeapon]未被收录，忽略检查
+[建议] 第24042行	| 节[SlimeAttack]未被收录，忽略检查
+[建议] 第24052行	| 节[ChemLauncher]未被收录，忽略检查
+[建议] 第24061行	| 节[FiendShard]未被收录，忽略检查
+[建议] 第24218行	| 节[TankMakeupKit]未被收录，忽略检查
+[建议] 第24455行	| 节[CRBAZOOKA]未被收录，忽略检查
+[建议] 第24476行	| 节[CRMakeupKit]未被收录，忽略检查
+[错误] rulesmd.ini | [CRNeutronRifle]
+[详情] 第24497行   | 键"Report"重复设定，第24495行的被覆盖为ChronoLegionAttack
+[建议] 第24500行	| 节[CRM1Carbine]未被收录，忽略检查
+[建议] 第24615行	| 节[CRAWP]未被收录，忽略检查
+[建议] 第24641行	| 节[Nukebomb]未被收录，忽略检查
+[错误] rulesmd.ini | [AGGattlingE] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第24671行   | BulletType中声明的Invisiblelow没有实现
+[错误] rulesmd.ini | [AGGattling2E] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第24697行   | BulletType中声明的Invisiblelow没有实现
+[错误] rulesmd.ini | [AGGattling3E] Projectile=Invisiblelow ;GEF Anti ground ;SA
+[详情] 第24723行   | BulletType中声明的Invisiblelow没有实现
+[建议] 第24839行	| 节[90mmE]未被收录，忽略检查
+[建议] 第24949行	| 节[ElectricFragment]未被收录，忽略检查
+[建议] 第25201行	| 节[HoverMissile2e]未被收录，忽略检查
+[建议] 第25417行	| 节[Invisible2]未被收录，忽略检查
+[建议] 第25438行	| 节[Invisible5]未被收录，忽略检查
+[建议] 第25505行	| 节[Null]未被收录，忽略检查
+[建议] 第25519行	| 节[Cannon2]未被收录，忽略检查
+[建议] 第25524行	| 节[ChemMissile]未被收录，忽略检查
+[建议] 第25537行	| 节[V3AirburstP]未被收录，忽略检查
+[建议] 第25624行	| 节[HeatSeeker]未被收录，忽略检查
+[建议] 第25673行	| 节[ProtonTorpedo]未被收录，忽略检查
+[建议] 第25699行	| 节[BlimpBombPE]未被收录，忽略检查
+[建议] 第25720行	| 节[ProtonBlast]未被收录，忽略检查
+[建议] 第25773行	| 节[AAHeatSeeker3]未被收录，忽略检查
+[建议] 第25787行	| 节[NavalToGroundSeeker]未被收录，忽略检查
+[建议] 第25802行	| 节[DredMissile]未被收录，忽略检查
+[建议] 第25828行	| 节[Lobbed]未被收录，忽略检查
+[建议] 第25837行	| 节[Lobbed2]未被收录，忽略检查
+[建议] 第25856行	| 节[LLine]未被收录，忽略检查
+[建议] 第25865行	| 节[LLine2]未被收录，忽略检查
+[建议] 第25874行	| 节[DogShard]未被收录，忽略检查
+[建议] 第26550行	| 节[SANoBuilding]未被收录，忽略检查
+[建议] 第27029行	| 节[RPG]未被收录，忽略检查
+[建议] 第27074行	| 节[OldPsychGasCreate]未被收录，忽略检查
+[建议] 第27447行	| 节[Shard]未被收录，忽略检查
+[建议] rulesmd.ini | [MirageWH]	// Supposed to be a heat ray.
+[详情] 第27602行   | 节[MirageWH]格式错误
+[建议] 第28731行	| 节[VEINHOLE]未被收录，忽略检查
+[错误] rulesmd.ini | [Riparius] Color=NeonGreen			; **WARNING**: If you change this color, notify Bret_a
+[详情] 第30461行   | 列表项数超出范围，应在[3，3]内
+[错误] rulesmd.ini | [Cruentus] Color=NeonBlue			; **WARNING**: If you change this color, notify Bret_a
+[详情] 第30473行   | 列表项数超出范围，应在[3，3]内
+[错误] rulesmd.ini | [Vinifera] Color=NeonBlue		; **WARNING**: If you change this color, notify Bret_a
+[详情] 第30486行   | 列表项数超出范围，应在[3，3]内
+[错误] rulesmd.ini | [Aboreus] Color=NeonBlue		; **WARNING**: If you change this color, notify Bret_a
+[详情] 第30499行   | 列表项数超出范围，应在[3，3]内
+[错误] rulesmd.ini | [METEOR01] Warhead=Meteorite
+[详情] 第30800行   | WarheadType中声明的Meteorite没有实现
+[错误] rulesmd.ini | [METEOR02] Warhead=Meteorite
+[详情] 第30818行   | WarheadType中声明的Meteorite没有实现
+[建议] 第30911行	| 节[IonCannonSpecial]未被收录，忽略检查

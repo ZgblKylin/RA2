@@ -1,0 +1,2 @@
+用包里的gamemd替换掉你原有的gamemd，再将ares压缩包中的所有内容解压到yr文件夹，以后运行runares.bat开启游戏
+Ares原版说明书是压缩包里的Documentation文件夹，中文说明书有一定的缺漏，有能力者推荐直接看英文。

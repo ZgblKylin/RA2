@@ -1,0 +1,5 @@
+These cameo backgrounds are a kind contribution from several community members for OS SHP Builder. Without them, our cameo generator would be useless. So, a big thanks for:
+
+
+- Smiffgig: For all backgrounds that start with Smiffgig. His backgrounds served as base for the Cameo Generator.
+- Carnotaurus: For all other backgrounds.

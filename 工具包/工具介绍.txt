@@ -1,0 +1,31 @@
+XCC Mixer 
+用于提取mix里的文件 以及简单的文件格式转换
+有文件查找功能 但必须运行游戏文件夹内的RegSetup、RegSetMD之类的注册器才能使用，只能搜索mix中的文件
+精确搜索必须打小写全称包括后缀如 gacnst.shp
+关键搜索用通配符 * 形式，必须用小写，比如你要搜索所有GA开头的文件就要输入 ga* ，搜索md结尾的文件就要输入*md
+
+CSF编辑器
+编辑红警的文本文件csf用，编辑完记得手动保存
+
+ShpBuilder
+传统SHP制作工具
+编辑shp图像用
+
+ImageShaper
+更先进的SHP制作工具
+使用视频演示：https://www.bilibili.com/video/av33912761
+
+vxlse
+制作vxl素材用
+HvaBuilder
+为vxl素材生成配套hva文件用，可调节缩放、坐标、转轴等，还可生成gif展示图
+
+AI编辑器
+辅助ai编辑，应先学会文字教程内容
+
+任务封面制作器
+可制作简单战役载入图
+
+
+XCC工具集
+提供其他XCC套件里的软件

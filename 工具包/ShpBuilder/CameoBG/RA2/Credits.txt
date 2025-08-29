@@ -1,0 +1,13 @@
+These cameo backgrounds are a kind contribution from several community members for OS SHP Builder. Without them, our cameo generator would be useless. So, a big thanks for:
+
+
+- Eva251: For all backgrounds that start with eva251.
+- GameMate: For all backgrounds that starts with GameMate.
+- NineBreakerFan: For all backgrounds that starts with NineBreakerFan.
+- TotalPrime: For all backgrounds that starts with TotalPrime.
+- ZombyDragon: For all backgrounds that starts with ZombyDragon.
+- FactionMk: For all backgrounds that starts with Factionmk.
+
+
+
+And a trully, big, special thanks for ArgCmdr, for allowing to distribute his cameo backgrounds packs in the OS SHP Builder, serving as base for the Cameo Generator. So, all cameos not mentioned above were made by ArgCmdr.
